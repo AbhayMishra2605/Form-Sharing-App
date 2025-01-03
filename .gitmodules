@@ -1,6 +1,6 @@
 [submodule "Client/formsharingapp"]
 	path = Client/formsharingapp
-	url = https://github.com/AbhayMishra2605/Form-Building-app-Backend-
+	url = https://github.com/AbhayMishra2605/Form-Building-app-Forntend-
 [submodule "Server"]
 	path = Server
 	url = https://github.com/AbhayMishra2605/Form-Building-app-Backend-
